@@ -1,4 +1,4 @@
-#CPSC332: Database Project
+# CPSC332: Database Project
 
 This is the final project for my CPSC 332: File Structures and Database Systems. 
 
